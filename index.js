@@ -6,4 +6,5 @@ console.log-(res)
 
 // adil changes
 
-const name = adil
+const name = adil;
+var lastname="hamzaoui"
