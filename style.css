@@ -5,10 +5,18 @@ h1 {
 p {
     color: green
 }
+
 /*the best player walid*/
 ol{
 display: flex;
 }
 li{
 flex-direction: row;
+}
+
+/* adil css style */
+
+div {
+    color: blue;
+    text-align : center;
 }
